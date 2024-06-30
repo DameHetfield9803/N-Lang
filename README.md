@@ -1,5 +1,6 @@
 # N-Lang
-> [!CAUTION] This is something that is still in progress and has not YET to be developed/optimized yet. This is still a product from ideation coming from developers who want to write C#/Java like code but want the performance benefits of something like GoLang.
+> [!CAUTION]
+> This is something that is still in progress and has not YET to be developed/optimized yet. This is still a product from ideation coming from developers who want to write C#/Java like code but want the performance benefits of something like GoLang.
 <h1>What is N Lang?</h1>
 <p>N Lang is a programming language for language that needs performance and build time close to GoLang with C#'s / Java's like Syntax. With the compiler being written in C++ (LLVM).</p>
 <section>
