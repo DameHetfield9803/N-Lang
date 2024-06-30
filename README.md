@@ -5,6 +5,8 @@
 <section>
   <h1>This is an example of how the code would roughly look</h1>
   <code>
+    example.n
+    
     class example
     {
       function test
