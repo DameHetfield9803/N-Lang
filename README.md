@@ -16,7 +16,6 @@
       void main(){
         test();
         print("Hello world! \n");
-        return 0;
       }
     }
     
