@@ -5,11 +5,12 @@
 <p>N Lang is a programming language for language that needs performance and build time close to GoLang with C#'s / Java's like Syntax. With the compiler being written in C++ (LLVM).</p>
 <section>
   <h1>This is an example of how the code would roughly look</h1>
+  <div>
   <code>
     
     class example
     {
-      function test
+      void function test
       {
         int x = 10;
         printf("The value of X is : %d", x);
@@ -20,5 +21,6 @@
       }
     }
     
-  </code>
+    </code>
+  </div>
 </section>
