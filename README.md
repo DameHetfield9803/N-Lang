@@ -10,12 +10,19 @@
     
     class example
     {
-      void function test
+      void function test()
       {
         int x = 10;
         printf("The value of X is : %d", x);
       }
+      void function hello()
+      {
+        string z = "Hello world";
+        printfn("%s", z);
+        // returns Hello world with a new line below
+      }
       void main(){
+        hello();
         test();
         print("Hello world! \n");
       }
